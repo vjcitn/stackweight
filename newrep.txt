@@ -1,0 +1,1597 @@
+BiocVersion ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('BiocVersion'))
+1/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.025   0.008   0.033 
+> 
+> 
+BiocGenerics ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('BiocGenerics'))
+2/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.163   0.003   0.167 
+> 
+> 
+S4Vectors ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('S4Vectors'))
+4/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.561   0.032   0.593 
+> 
+> 
+IRanges ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('IRanges'))
+5/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.064   0.044   1.108 
+> 
+> 
+Biobase ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('Biobase'))
+3/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.305   0.017   0.322 
+> 
+> 
+zlibbioc ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('zlibbioc'))
+1/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.033   0.000   0.033 
+> 
+> 
+AnnotationDbi ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('AnnotationDbi'))
+7/8 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.734   0.039   1.774 
+> 
+> 
+XVector ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('XVector'))
+6/1 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.196   0.063   1.260 
+> 
+> 
+BiocParallel ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('BiocParallel'))
+1/1 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.090   0.004   0.094 
+> 
+> 
+GenomeInfoDb ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('GenomeInfoDb'))
+6/3 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.235   0.060   1.295 
+> 
+> 
+DelayedArray ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('DelayedArray'))
+9/2 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.243   0.067   2.312 
+> 
+> 
+GenomicRanges ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('GenomicRanges'))
+7/5 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.656   0.063   1.722 
+> 
+> 
+SummarizedExperiment ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('SummarizedExperiment'))
+11/9 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  3.267   0.108   3.376 
+> 
+> 
+limma ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('limma'))
+1/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.145   0.000   0.145 
+> 
+> 
+Biostrings ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('Biostrings'))
+7/2 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.483   0.052   1.535 
+> 
+> 
+Rsamtools ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('Rsamtools'))
+10/6 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.283   0.080   2.363 
+> 
+> 
+biomaRt ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('biomaRt'))
+1/43 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.278   0.124   3.449 
+> 
+> 
+annotate ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('annotate'))
+9/11 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.863   0.084   1.948 
+> 
+> 
+genefilter ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('genefilter'))
+1/27 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.534   0.072   2.605 
+> 
+> 
+GenomicAlignments ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('GenomicAlignments'))
+15/10 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  4.286   0.096   4.382 
+> 
+> 
+Rhtslib ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('Rhtslib'))
+1/1 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.037   0.003   0.040 
+> 
+> 
+graph ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('graph'))
+3/1 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.306   0.008   0.315 
+> 
+> 
+rtracklayer ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('rtracklayer'))
+8/19 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  4.973   0.163   5.138 
+> 
+> 
+edgeR ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('edgeR'))
+2/4 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.302   0.019   0.322 
+> 
+> 
+GenomicFeatures ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('GenomicFeatures'))
+10/54 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  6.167   0.168   7.306 
+> 
+> 
+BiocFileCache ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('BiocFileCache'))
+2/25 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.630   0.020   0.652 
+> 
+> 
+DESeq2 ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('DESeq2'))
+12/47 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  4.603   0.140   4.743 
+> 
+> 
+Rhdf5lib ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('Rhdf5lib'))
+1/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.034   0.000   0.034 
+> 
+> 
+geneplotter ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('geneplotter'))
+11/13 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.955   0.068   2.024 
+> 
+> 
+rhdf5 ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('rhdf5'))
+1/2 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.070   0.004   0.074 
+> 
+> 
+preprocessCore ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('preprocessCore'))
+1/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.033   0.000   0.033 
+> 
+> 
+multtest ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('multtest'))
+4/7 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.024   0.035   1.059 
+> 
+> 
+qvalue ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('qvalue'))
+1/26 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.409   0.020   0.428 
+> 
+> 
+Rgraphviz ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('Rgraphviz'))
+5/1 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.392   0.012   0.404 
+> 
+> 
+RBGL ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('RBGL'))
+4/1 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.316   0.020   0.337 
+> 
+> 
+fgsea ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('fgsea'))
+1/28 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.097   0.056   1.152 
+> 
+> 
+GOSemSim ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('GOSemSim'))
+1/17 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.754   0.068   1.823 
+> 
+> 
+clusterProfiler ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('clusterProfiler'))
+1/72 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  3.327   0.099   3.428 
+> 
+> 
+BSgenome ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('BSgenome'))
+11/17 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  5.780   0.123   5.905 
+> 
+> 
+affyio ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('affyio'))
+1/1 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.036   0.000   0.035 
+> 
+> 
+affy ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('affy'))
+4/4 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.375   0.016   0.391 
+> 
+> 
+DOSE ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('DOSE'))
+1/50 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.767   0.112   2.879 
+> 
+> 
+impute ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('impute'))
+1/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.034   0.000   0.034 
+> 
+> 
+HDF5Array ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('HDF5Array'))
+11/4 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.415   0.068   2.483 
+> 
+> 
+enrichplot ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('enrichplot'))
+1/70 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.980   0.093   3.073 
+> 
+> 
+ProtGenerics ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('ProtGenerics'))
+1/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.066   0.000   0.066 
+> 
+> 
+ensembldb ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('ensembldb'))
+12/56 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  6.887   0.144   7.866 
+> 
+> 
+GEOquery ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('GEOquery'))
+4/19 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.689   0.021   0.709 
+> 
+> 
+ShortRead ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('ShortRead'))
+17/14 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  5.363   0.192   5.556 
+> 
+> 
+VariantAnnotation ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('VariantAnnotation'))
+15/51 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  7.213   0.232   8.374 
+> 
+> 
+DelayedMatrixStats ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('DelayedMatrixStats'))
+10/4 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.417   0.108   2.525 
+> 
+> 
+ComplexHeatmap ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('ComplexHeatmap'))
+2/17 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.240   0.064   1.329 
+> 
+> 
+AnnotationFilter ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('AnnotationFilter'))
+1/13 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.825   0.039   1.865 
+> 
+> 
+sva ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('sva'))
+5/31 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.849   0.084   2.932 
+> 
+> 
+GSEABase ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('GSEABase'))
+11/11 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.108   0.063   2.173 
+> 
+> 
+AnnotationHub ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('AnnotationHub'))
+5/41 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.217   0.069   2.286 
+> 
+> 
+KEGGREST ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('KEGGREST'))
+1/12 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.460   0.063   1.524 
+> 
+> 
+SingleCellExperiment ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('SingleCellExperiment'))
+12/9 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  3.691   0.088   3.779 
+> 
+> 
+interactiveDisplayBase ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('interactiveDisplayBase'))
+3/10 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.321   0.016   0.336 
+> 
+> 
+beachmat ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('beachmat'))
+1/11 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.173   0.067   2.241 
+> 
+> 
+scater ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('scater'))
+14/44 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  4.459   0.124   4.583 
+> 
+> 
+biovizBase ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('biovizBase'))
+1/96 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  8.479   0.260   9.681 
+> 
+> 
+KEGGgraph ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('KEGGgraph'))
+1/7 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.481   0.032   0.513 
+> 
+> 
+pathview ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('pathview'))
+1/32 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.826   0.068   2.895 
+> 
+> 
+BiocSingular ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('BiocSingular'))
+1/16 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.336   0.107   2.444 
+> 
+> 
+vsn ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('vsn'))
+4/27 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.794   0.025   0.818 
+> 
+> 
+BiocStyle ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('BiocStyle'))
+1/2 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.053   0.000   0.053 
+> 
+> 
+BiocNeighbors ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('BiocNeighbors'))
+1/9 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.309   0.056   1.366 
+> 
+> 
+phyloseq ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('phyloseq'))
+1/57 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  3.370   0.139   3.510 
+> 
+> 
+pcaMethods ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('pcaMethods'))
+4/1 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.419   0.020   0.439 
+> 
+> 
+biomformat ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('biomformat'))
+1/9 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.851   0.064   0.914 
+> 
+> 
+Gviz ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('Gviz'))
+9/89 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  8.763   0.201   9.879 
+> 
+> 
+topGO ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('topGO'))
+
+groupGOTerms: 	GOBPTerm, GOMFTerm, GOCCTerm environments built.
+11/12 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.226   0.084   2.318 
+> 
+> 
+aroma.light ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('aroma.light'))
+1/4 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.090   0.000   0.091 
+> 
+> 
+biocViews ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('biocViews'))
+1/11 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.652   0.019   0.683 
+> 
+> 
+AnnotationForge ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('AnnotationForge'))
+8/11 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.965   0.056   2.021 
+> 
+> 
+Category ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('Category'))
+9/23 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  3.160   0.089   3.247 
+> 
+> 
+ExperimentHub ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('ExperimentHub'))
+6/41 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.283   0.077   2.360 
+> 
+> 
+tximport ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('tximport'))
+1/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.038   0.000   0.038 
+> 
+> 
+EBImage ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('EBImage'))
+1/13 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.389   0.028   0.416 
+> 
+> 
+OrganismDbi ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('OrganismDbi'))
+11/57 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  7.101   0.155   8.268 
+> 
+> 
+EDASeq ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('EDASeq'))
+18/57 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  7.370   0.204   8.681 
+> 
+> 
+ggtree ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('ggtree'))
+1/34 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.564   0.016   0.579 
+> 
+> 
+GOstats ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('GOstats'))
+11/26 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  3.467   0.108   3.576 
+> 
+> 
+illuminaio ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('illuminaio'))
+1/3 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.044   0.000   0.044 
+> 
+> 
+ConsensusClusterPlus ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('ConsensusClusterPlus'))
+1/4 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.308   0.003   0.312 
+> 
+> 
+TCGAbiolinks ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('TCGAbiolinks'))
+1/73 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  4.913   0.135   5.913 
+> 
+> 
+DNAcopy ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('DNAcopy'))
+1/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.032   0.003   0.046 
+> 
+> 
+treeio ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('treeio'))
+1/23 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.438   0.008   0.446 
+> 
+> 
+siggenes ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('siggenes'))
+6/7 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.081   0.020   1.101 
+> 
+> 
+bumphunter ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('bumphunter'))
+11/60 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  6.622   0.180   7.667 
+> 
+> 
+GSVA ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('GSVA'))
+1/37 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  4.434   0.161   4.596 
+> 
+> 
+scran ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('scran'))
+13/28 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  4.389   0.132   4.522 
+> 
+> 
+monocle ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('monocle'))
+11/47 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.804   0.063   1.868 
+> 
+> 
+mixOmics ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('mixOmics'))
+4/37 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.146   0.027   1.174 
+> 
+> 
+mzR ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('mzR'))
+2/6 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.674   0.019   0.694 
+> 
+> 
+ggbio ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('ggbio'))
+4/103 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  9.208   0.252  10.376 
+> 
+> 
+minfi ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('minfi'))
+18/85 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  7.688   0.260   8.771 
+> 
+> 
+gcrma ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('gcrma'))
+5/11 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.798   0.068   1.866 
+> 
+> 
+oligoClasses ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('oligoClasses'))
+1/30 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  3.999   0.132   4.136 
+> 
+> 
+apeglm ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('apeglm'))
+1/29 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  3.680   0.136   3.817 
+> 
+> 
+flowCore ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('flowCore'))
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.002   0.040   1.043 
+> 
+> 
+MSnbase ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('MSnbase'))
+9/42 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.890   0.059   2.950 
+> 
+> 
+EnhancedVolcano ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('EnhancedVolcano'))
+3/35 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.440   0.025   0.465 
+> 
+> 
+oligo ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('oligo'))
+No methods found in package ‘RSQLite’ for request: ‘dbListFields’ when loading ‘oligo’
+10/31 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  4.557   0.168   4.741 
+> 
+> 
+Rsubread ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('Rsubread'))
+1/3 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.711   0.036   0.749 
+> 
+> 
+mzID ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('mzID'))
+1/9 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.311   0.012   0.323 
+> 
+> 
+affxparser ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('affxparser'))
+1/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.038   0.000   0.038 
+> 
+> 
+dada2 ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('dada2'))
+2/54 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  5.496   0.183   5.684 
+> 
+> 
+regioneR ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('regioneR'))
+8/22 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  5.330   0.152   5.482 
+> 
+> 
+maftools ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('maftools'))
+1/7 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.812   0.048   0.862 
+> 
+> 
+marray ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('marray'))
+2/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.262   0.008   0.270 
+> 
+> 
+graphite ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('graphite'))
+1/21 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.917   0.044   1.960 
+> 
+> 
+batchelor ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('batchelor'))
+13/23 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  4.342   0.116   4.459 
+> 
+> 
+seqLogo ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('seqLogo'))
+2/1 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.108   0.004   0.112 
+> 
+> 
+snpStats ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('snpStats'))
+3/6 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.993   0.056   1.061 
+> 
+> 
+affyPLM ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('affyPLM'))
+7/10 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.862   0.084   1.946 
+> 
+> 
+gdsfmt ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('gdsfmt'))
+1/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.057   0.000   0.057 
+> 
+> 
+ReactomePA ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('ReactomePA'))
+1/78 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  3.180   0.123   3.305 
+> 
+> 
+cytolib ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('cytolib'))
+1/2 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.031   0.012   0.043 
+> 
+> 
+methylumi ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('methylumi'))
+27/87 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  9.215   0.240  10.422 
+> 
+> 
+xcms ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('xcms'))
+11/58 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  6.195   0.192   6.388 
+> 
+> 
+MultiAssayExperiment ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('MultiAssayExperiment'))
+12/9 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  3.749   0.116   3.864 
+> 
+> 
+DirichletMultinomial ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('DirichletMultinomial'))
+6/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.106   0.040   1.145 
+> 
+> 
+goseq ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('goseq'))
+3/68 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  6.400   0.220   7.503 
+> 
+> 
+ChIPseeker ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('ChIPseeker'))
+1/108 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  7.463   0.221   8.507 
+> 
+> 
+Glimma ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('Glimma'))
+1/63 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  5.280   0.112   5.394 
+> 
+> 
+DECIPHER ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('DECIPHER'))
+9/9 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.928   0.064   1.991 
+> 
+> 
+lumi ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('lumi'))
+No methods found in package ‘RSQLite’ for request: ‘dbListFields’ when loading ‘lumi’
+4/108 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  8.944   0.227  10.010 
+> 
+> 
+flowWorkspace ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('flowWorkspace'))
+1/46 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.954   0.081   2.036 
+> 
+> 
+flowViz ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('flowViz'))
+3/19 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.162   0.028   1.191 
+> 
+> 
+SNPRelate ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('SNPRelate'))
+2/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.073   0.000   0.073 
+> 
+> 
+globaltest ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('globaltest'))
+2/24 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.496   0.092   2.588 
+> 
+> 
+RProtoBufLib ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('RProtoBufLib'))
+1/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.034   0.000   0.034 
+> 
+> 
+ROC ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('ROC'))
+1/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.061   0.000   0.060 
+> 
+> 
+MassSpecWavelet ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('MassSpecWavelet'))
+2/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.039   0.004   0.042 
+> 
+> 
+BiocCheck ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('BiocCheck'))
+1/18 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.700   0.020   0.748 
+> 
+> 
+msa ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('msa'))
+8/3 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.849   0.032   1.882 
+> 
+> 
+bsseq ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('bsseq'))
+12/37 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  6.538   0.183   6.722 
+> 
+> 
+ncdfFlow ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('ncdfFlow'))
+4/11 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.120   0.052   1.171 
+> 
+> 
+MAST ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('MAST'))
+13/35 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  4.300   0.121   4.420 
+> 
+> 
+systemPipeR ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('systemPipeR'))
+18/91 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+ 10.010   0.228  11.148 
+> 
+> 
+lpsymphony ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('lpsymphony'))
+1/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.036   0.000   0.036 
+> 
+> 
+SingleR ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('SingleR'))
+12/18 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  3.921   0.100   4.025 
+> 
+> 
+ggcyto ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('ggcyto'))
+7/49 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.202   0.059   2.262 
+> 
+> 
+gage ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('gage'))
+1/26 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.249   0.072   2.322 
+> 
+> 
+GenomicDataCommons ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('GenomicDataCommons'))
+2/39 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  3.721   0.108   3.829 
+> 
+> 
+flowClust ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('flowClust'))
+1/18 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.271   0.020   1.291 
+> 
+> 
+IHW ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('IHW'))
+1/5 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.226   0.003   0.230 
+> 
+> 
+ReportingTools ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('ReportingTools'))
+2/125 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+ 10.445   0.261  11.707 
+> 
+> 
+ChIPpeakAnno ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('ChIPpeakAnno'))
+8/79 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  7.439   0.208   8.532 
+> 
+> 
+flowStats ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('flowStats'))
+1/63 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  3.023   0.156   3.179 
+> 
+> 
+FlowSOM ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('FlowSOM'))
+2/60 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.298   0.100   2.399 
+> 
+> 
+openCyto ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('openCyto'))
+1/76 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  3.386   0.123   3.510 
+> 
+> 
+GenomicFiles ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('GenomicFiles'))
+17/50 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  7.510   0.196   8.691 
+> 
+> 
+DropletUtils ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('DropletUtils'))
+13/26 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  4.395   0.123   4.522 
+> 
+> 
+missMethyl ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('missMethyl'))
+21/87 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+ 49.012   1.511  51.379 
+> 
+> 
+destiny ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('destiny'))
+1/86 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  5.203   0.204   5.409 
+> 
+> 
+CytoML ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('CytoML'))
+1/56 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.265   0.056   2.321 
+> 
+> 
+survcomp ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('survcomp'))
+3/11 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.844   0.055   0.902 
+> 
+> 
+RUVSeq ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('RUVSeq'))
+21/59 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  7.593   0.220   8.652 
+> 
+> 
+DSS ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('DSS'))
+14/37 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  6.788   0.168   6.957 
+> 
+> 
+beadarray ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('beadarray'))
+5/49 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.766   0.079   2.845 
+> 
+> 
+DiffBind ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('DiffBind'))
+12/120 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+ 10.926   0.228  12.078 
+> 
+> 
+ballgown ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('ballgown'))
+1/50 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  5.803   0.147   5.953 
+> 
+> 
+tximeta ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('tximeta'))
+1/82 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  7.187   0.188   8.220 
+> 
+> 
+DMRcate ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('DMRcate'))
+19/140 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+ 11.285   0.355  12.541 
+Warning message:
+replacing previous import 'minfi::getMeth' by 'bsseq::getMeth' when loading 'DMRcate' 
+> 
+> 
+microbiome ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('microbiome'))
+3/59 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  3.480   0.076   3.558 
+> 
+> 
+wateRmelon ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('wateRmelon'))
+No methods found in package ‘RSQLite’ for request: ‘dbListFields’ when loading ‘lumi’
+33/91 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  9.571   0.303  10.778 
+> 
+> 
+TFBSTools ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('TFBSTools'))
+1/77 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  7.355   0.160   7.523 
+> 
+> 
+BeadDataPackR ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('BeadDataPackR'))
+1/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.035   0.000   0.034 
+> 
+> 
+slingshot ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('slingshot'))
+2/27 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  3.899   0.108   4.007 
+> 
+> 
+CNEr ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('CNEr'))
+1/70 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  6.693   0.208   6.903 
+> 
+> 
+DEXSeq ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('DEXSeq'))
+16/62 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  6.147   0.172   7.361 
+> 
+> 
+NOISeq ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('NOISeq'))
+6/2 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.998   0.020   1.018 
+> 
+> 
+ArrayExpress ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('ArrayExpress'))
+No methods found in package ‘RSQLite’ for request: ‘dbListFields’ when loading ‘oligo’
+4/40 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  4.788   0.159   4.959 
+> 
+> 
+metagenomeSeq ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('metagenomeSeq'))
+8/16 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.126   0.052   1.191 
+> 
+> 
+bamsignals ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('bamsignals'))
+1/13 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.884   0.048   1.932 
+> 
+> 
+zinbwave ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('zinbwave'))
+13/31 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  5.039   0.124   5.164 
+> 
+> 
+RTCGA ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('RTCGA'))
+1/62 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.433   0.064   1.498 
+> 
+> 
+fastseg ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('fastseg'))
+9/5 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  1.983   0.053   2.035 
+> 
+> 
+simpleaffy ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('simpleaffy'))
+7/31 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  3.323   0.096   3.419 
+Warning message:
+Package 'simpleaffy' is deprecated and will be removed from
+  Bioconductor version 3.13 
+> 
+> 
+AUCell ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('AUCell'))
+1/47 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  4.691   0.116   4.807 
+> 
+> 
+ChAMP ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('ChAMP'))
+No methods found in package 'RSQLite' for request: 'dbListFields' when loading 'lumi'
+24/175 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+ 12.376   0.295  13.757 
+There were 12 warnings (use warnings() to see them)
+> 
+> 
+RaggedExperiment ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('RaggedExperiment'))
+8/13 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  3.645   0.119   3.765 
+> 
+> 
+RCy3 ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('RCy3'))
+1/14 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.482   0.013   0.495 
+> 
+> 
+TCGAutils ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('TCGAutils'))
+1/69 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  6.922   0.225   8.237 
+> 
+> 
+baySeq ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('baySeq'))
+9/11 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  2.079   0.072   2.150 
+> 
+> 
+karyoploteR ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('karyoploteR'))
+9/92 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  8.540   0.204   9.654 
+> 
+> 
+minet ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('minet'))
+1/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.035   0.000   0.035 
+> 
+> 
+Heatplus ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('Heatplus'))
+1/1 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.037   0.000   0.038 
+> 
+> 
+arrayQualityMetrics ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('arrayQualityMetrics'))
+1/96 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  4.861   0.116   4.978 
+> 
+> 
+rGADEM ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('rGADEM'))
+14/16 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  6.024   0.148   6.206 
+> 
+> 
+STRINGdb ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('STRINGdb'))
+1/26 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.491   0.017   0.523 
+> 
+> 
+ropls ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('ropls'))
+4/0 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  0.355   0.024   0.379 
+> 
+> 
+chipseq ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('chipseq'))
+18/14 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  5.273   0.144   5.416 
+> 
+> 
+BiocSklearn ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('BiocSklearn'))
+14/15 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  3.736   0.129   3.891 
+> 
+> 
+RTCGAToolbox ----
+1/10 packages newly attached/loaded, see sessionInfo() for details.
+> system.time(library('RTCGAToolbox'))
+1/31 packages newly attached/loaded, see sessionInfo() for details.
+   user  system elapsed 
+  4.090   0.103   4.195 
+> 
+> 
